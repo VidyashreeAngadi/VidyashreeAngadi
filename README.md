@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vidyashree</h1>
 <h3 align="center">Engineering CSE student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyashreeangadi&label=Profile%20views&color=0e75b6&style=flat" alt="vidyashreeangadi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidyashreeangadi" alt="vidyashreeangadi" /></a> </p>
-
 - 🌱 I’m currently learning **Java,DSA**
 
 - 📫 How to reach me **vidyashreea48@gmail.com**
